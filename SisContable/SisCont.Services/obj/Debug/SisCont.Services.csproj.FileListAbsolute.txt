@@ -1,0 +1,16 @@
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Services.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Services.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\obj\Debug\SisCont.Services.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\obj\Debug\SisCont.Services.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\obj\Debug\SisCont.Services.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Services.dll.config
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.DataBase.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Interfaces.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Models.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.DataBase.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Interfaces.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\SisCont.Models.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Services\bin\Debug\EntityFramework.SqlServer.xml

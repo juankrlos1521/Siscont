@@ -1,0 +1,5 @@
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Models\bin\Debug\SisCont.Models.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Models\bin\Debug\SisCont.Models.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Models\obj\Debug\SisCont.Models.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Models\obj\Debug\SisCont.Models.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Models\obj\Debug\SisCont.Models.pdb

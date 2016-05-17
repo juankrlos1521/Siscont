@@ -1,0 +1,7 @@
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\bin\Debug\SisCont.Interfaces.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\bin\Debug\SisCont.Interfaces.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\bin\Debug\SisCont.Models.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\bin\Debug\SisCont.Models.pdb
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\obj\Debug\SisCont.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\obj\Debug\SisCont.Interfaces.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\SisContable\SisCont.Interfaces\obj\Debug\SisCont.Interfaces.pdb
